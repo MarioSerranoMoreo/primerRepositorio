@@ -6,6 +6,7 @@ public class pruebaGithub {
 		suma(numero1,numero2);
 		resta(numero1,numero2);
 		multiplicacion(numero1,numero2);
+		division(numero1,numero2);
 	}
 	public static void suma(int numero1,int numero2) {
 		int resultado=numero1+numero2;
